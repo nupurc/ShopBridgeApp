@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bBh4Yrk6BQp0ZKEiTspvOJTpHkWq6T7Vo6Bxol95xGPpLdmiSuX6RaJY1sN2Q1eHOiJXcn0/THRJRDreXCk80Q==",
+  "success": true,
+  "projectFilePath": "D:\\Study\\CodingInterview\\ShopBridgeApp\\ShopBridgeAppApi\\ShopBridgeApp\\ShopBridgeApp.Models\\ShopBridgeApp.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sendn\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sendn\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\sendn\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

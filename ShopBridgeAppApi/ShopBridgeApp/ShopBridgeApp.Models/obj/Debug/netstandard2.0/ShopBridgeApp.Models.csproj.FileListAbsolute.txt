@@ -1,0 +1,9 @@
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Models\bin\Debug\netstandard2.0\ShopBridgeApp.Models.deps.json
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Models\bin\Debug\netstandard2.0\ShopBridgeApp.Models.dll
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Models\obj\Debug\netstandard2.0\ShopBridgeApp.Models.csprojAssemblyReference.cache
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Models\obj\Debug\netstandard2.0\ShopBridgeApp.Models.AssemblyInfoInputs.cache
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Models\obj\Debug\netstandard2.0\ShopBridgeApp.Models.AssemblyInfo.cs
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Models\bin\Debug\netstandard2.0\ShopBridgeApp.Models.pdb
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Models\obj\Debug\netstandard2.0\ShopBridgeApp.Models.csproj.CoreCompileInputs.cache
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Models\obj\Debug\netstandard2.0\ShopBridgeApp.Models.dll
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Models\obj\Debug\netstandard2.0\ShopBridgeApp.Models.pdb

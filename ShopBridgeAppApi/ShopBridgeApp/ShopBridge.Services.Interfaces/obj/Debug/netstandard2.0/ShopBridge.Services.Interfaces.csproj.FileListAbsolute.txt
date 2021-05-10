@@ -1,0 +1,12 @@
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridge.Services.Interfaces\bin\Debug\netstandard2.0\ShopBridge.Services.Interfaces.deps.json
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridge.Services.Interfaces\bin\Debug\netstandard2.0\ShopBridge.Services.Interfaces.dll
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridge.Services.Interfaces\bin\Debug\netstandard2.0\ShopBridge.Services.Interfaces.pdb
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridge.Services.Interfaces\bin\Debug\netstandard2.0\ShopBridgeApp.Models.dll
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridge.Services.Interfaces\bin\Debug\netstandard2.0\ShopBridgeApp.Models.pdb
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridge.Services.Interfaces\obj\Debug\netstandard2.0\ShopBridge.Services.Interfaces.csprojAssemblyReference.cache
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridge.Services.Interfaces\obj\Debug\netstandard2.0\ShopBridge.Services.Interfaces.AssemblyInfoInputs.cache
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridge.Services.Interfaces\obj\Debug\netstandard2.0\ShopBridge.Services.Interfaces.AssemblyInfo.cs
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridge.Services.Interfaces\obj\Debug\netstandard2.0\ShopBridge.Services.Interfaces.csproj.CoreCompileInputs.cache
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridge.Services.Interfaces\obj\Debug\netstandard2.0\ShopBridge.Services.Interfaces.csproj.CopyComplete
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridge.Services.Interfaces\obj\Debug\netstandard2.0\ShopBridge.Services.Interfaces.dll
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridge.Services.Interfaces\obj\Debug\netstandard2.0\ShopBridge.Services.Interfaces.pdb

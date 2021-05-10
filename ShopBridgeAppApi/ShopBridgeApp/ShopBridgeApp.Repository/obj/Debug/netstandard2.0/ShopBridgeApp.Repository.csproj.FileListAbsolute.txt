@@ -1,0 +1,14 @@
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository\bin\Debug\netstandard2.0\ShopBridgeApp.Models.dll
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository\bin\Debug\netstandard2.0\ShopBridgeApp.Repository.Interface.dll
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository\obj\Debug\netstandard2.0\ShopBridgeApp.Repository.csprojAssemblyReference.cache
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository\obj\Debug\netstandard2.0\ShopBridgeApp.Repository.AssemblyInfoInputs.cache
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository\obj\Debug\netstandard2.0\ShopBridgeApp.Repository.AssemblyInfo.cs
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository\bin\Debug\netstandard2.0\ShopBridgeApp.Repository.deps.json
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository\bin\Debug\netstandard2.0\ShopBridgeApp.Repository.dll
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository\bin\Debug\netstandard2.0\ShopBridgeApp.Repository.pdb
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository\bin\Debug\netstandard2.0\ShopBridgeApp.Repository.Interface.pdb
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository\bin\Debug\netstandard2.0\ShopBridgeApp.Models.pdb
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository\obj\Debug\netstandard2.0\ShopBridgeApp.Repository.csproj.CoreCompileInputs.cache
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository\obj\Debug\netstandard2.0\ShopBridgeApp.Repository.csproj.CopyComplete
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository\obj\Debug\netstandard2.0\ShopBridgeApp.Repository.dll
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository\obj\Debug\netstandard2.0\ShopBridgeApp.Repository.pdb

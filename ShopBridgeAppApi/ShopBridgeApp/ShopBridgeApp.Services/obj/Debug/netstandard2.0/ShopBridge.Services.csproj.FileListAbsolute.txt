@@ -1,0 +1,16 @@
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Services\bin\Debug\netstandard2.0\ShopBridge.Services.deps.json
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Services\bin\Debug\netstandard2.0\ShopBridge.Services.dll
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Services\bin\Debug\netstandard2.0\ShopBridge.Services.pdb
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Services\bin\Debug\netstandard2.0\ShopBridge.Services.Interfaces.dll
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Services\bin\Debug\netstandard2.0\ShopBridgeApp.Models.dll
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Services\bin\Debug\netstandard2.0\ShopBridgeApp.Repository.Interface.dll
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Services\bin\Debug\netstandard2.0\ShopBridge.Services.Interfaces.pdb
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Services\bin\Debug\netstandard2.0\ShopBridgeApp.Repository.Interface.pdb
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Services\bin\Debug\netstandard2.0\ShopBridgeApp.Models.pdb
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Services\obj\Debug\netstandard2.0\ShopBridge.Services.csprojAssemblyReference.cache
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Services\obj\Debug\netstandard2.0\ShopBridge.Services.AssemblyInfoInputs.cache
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Services\obj\Debug\netstandard2.0\ShopBridge.Services.AssemblyInfo.cs
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Services\obj\Debug\netstandard2.0\ShopBridge.Services.csproj.CoreCompileInputs.cache
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Services\obj\Debug\netstandard2.0\ShopBridge.Services.csproj.CopyComplete
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Services\obj\Debug\netstandard2.0\ShopBridge.Services.dll
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Services\obj\Debug\netstandard2.0\ShopBridge.Services.pdb

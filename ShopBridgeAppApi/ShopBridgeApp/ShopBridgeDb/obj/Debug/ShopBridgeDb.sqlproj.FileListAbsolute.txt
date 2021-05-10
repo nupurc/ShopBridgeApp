@@ -1,0 +1,10 @@
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeDb\bin\Debug\ShopBridgeDb.dacpac
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeDb\bin\Debug\ShopBridgeDb.dll
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeDb\bin\Debug\ShopBridgeDb.pdb
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeDb\obj\Debug\ShopBridgeDb.sqlprojAssemblyReference.cache
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeDb\obj\Debug\Model.xml
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeDb\obj\Debug\refactor.xml
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeDb\obj\Debug\postdeploy.sql
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeDb\obj\Debug\predeploy.sql
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeDb\obj\Debug\ShopBridgeDb.dll
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeDb\obj\Debug\ShopBridgeDb.pdb

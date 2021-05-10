@@ -1,0 +1,12 @@
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository.Interface\bin\Debug\netstandard2.0\ShopBridgeApp.Repository.Interface.deps.json
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository.Interface\bin\Debug\netstandard2.0\ShopBridgeApp.Repository.Interface.dll
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository.Interface\bin\Debug\netstandard2.0\ShopBridgeApp.Repository.Interface.pdb
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository.Interface\bin\Debug\netstandard2.0\ShopBridgeApp.Models.dll
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository.Interface\bin\Debug\netstandard2.0\ShopBridgeApp.Models.pdb
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository.Interface\obj\Debug\netstandard2.0\ShopBridgeApp.Repository.Interface.csprojAssemblyReference.cache
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository.Interface\obj\Debug\netstandard2.0\ShopBridgeApp.Repository.Interface.AssemblyInfoInputs.cache
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository.Interface\obj\Debug\netstandard2.0\ShopBridgeApp.Repository.Interface.AssemblyInfo.cs
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository.Interface\obj\Debug\netstandard2.0\ShopBridgeApp.Repository.Interface.csproj.CoreCompileInputs.cache
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository.Interface\obj\Debug\netstandard2.0\ShopBridgeApp.Repository.Interface.csproj.CopyComplete
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository.Interface\obj\Debug\netstandard2.0\ShopBridgeApp.Repository.Interface.dll
+D:\Study\CodingInterview\ShopBridgeApp\ShopBridgeAppApi\ShopBridgeApp\ShopBridgeApp.Repository.Interface\obj\Debug\netstandard2.0\ShopBridgeApp.Repository.Interface.pdb

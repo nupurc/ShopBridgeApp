@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShopBridge.Services.Interfaces\ShopBridge.Services.Interfaces.csproj" />
+    <ProjectReference Include="..\ShopBridgeApp.Repository.Interface\ShopBridgeApp.Repository.Interface.csproj" />
+  </ItemGroup>
+
+</Project>
